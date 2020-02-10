@@ -36,6 +36,10 @@
         <module>zipkin-server</module>
         <module>service-miya</module>
         <module>service-lucy</module>
+        <!--<module>appointments</module>-->
+        <!--<module>doctor-web-service</module>-->
+        <!--<module>cash-management</module>-->
+        <!--<module>atlas-project</module>-->
     </modules>
     <dependencyManagement>
         <dependencies>
